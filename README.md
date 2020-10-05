@@ -12,3 +12,8 @@ This readme for the Denver Game Builders Chapter will contain references to game
 ### Phaser.io [check out phaser.io](http://phaser.io/)
 * [phaser.io docs including tutorial project](https://phaser.io/learn)
 * [MDN breakout tutorial](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
+
+## Python
+* [learn python by building 5 games, from freecodecamp](https://www.freecodecamp.org/news/learn-python-by-building-5-games/)
+
+### Arcade 
