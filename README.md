@@ -2,6 +2,15 @@
 
 This readme for the Denver Game Builders Chapter will contain references to game engines by code language, along with tutorial projects in those languages/ engines.
 
+### References for Diving Into Phaser (23 Nov 2020)
+* [phaser tutorial from Phaser site](http://phaser.io/tutorials/making-your-first-phaser-3-game/part1)
+* [phaser 3 parcel template used in modern JS tutorial](https://github.com/ourcade/phaser3-parcel-template)
+* [phaser tutorial with modern JS, part 1](http://phaser.io/news/2020/04/modern-javascript-phaser-3-tutorial-part-1)
+* [phaser tutorial with modern JS, part 2](http://phaser.io/news/2020/04/modern-javascript-phaser-3-tutorial-part-2)
+* [phaser tutorial with modern JS, part 3](http://phaser.io/news/2020/04/modern-javascript-phaser-3-tutorial-part-3)
+* [phaser tutorial with modern JS, part 4](http://phaser.io/news/2020/04/modern-javascript-phaser-3-tutorial-part-4)
+* [phaser tutorial with modern JS, part 5](http://phaser.io/news/2020/04/modern-javascript-phaser-3-tutorial-part-5)
+
 ## JavaScript
 
 ### pure JS tutorials
